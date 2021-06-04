@@ -1,4 +1,4 @@
-Django==3.2
+Django==3.2.1
 hypercorn==0.11.2
 whitenoise==5.2.0
 coverage==5.5
